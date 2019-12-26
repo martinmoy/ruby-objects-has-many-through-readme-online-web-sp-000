@@ -18,5 +18,5 @@ class Waiter
   end
 
 
- 
+
 end
